@@ -1,0 +1,3 @@
+# litespring
+
+Basic BeanFactory
